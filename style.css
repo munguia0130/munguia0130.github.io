@@ -21,12 +21,24 @@ li{
     display: inline;
     font-family: 'Lobster', cursive;
     padding:15px;
+    font-size:25px;
+    
 }
 p{
-   font-size: 17px;
+   font-size: 25px;
    font-family: 'Girassol', cursive;
 }
-h2{
-   font-size:28px;
+h1{
+   font-size:50px;
     font-family: 'Lilita One', cursive;
+}
+h2{
+    font-size:50px;
+    font-family: 'Lilita One', cursive;
+}
+label{
+    font-size:35px;
+}
+input{
+    font-size:20px;
 }
