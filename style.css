@@ -1,8 +1,8 @@
 .color{
-    color: rgb(51, 51, 204);
+    color: rgb(0,0,0);
 }
 .light{
-    color: rgb(51, 51, 255);
+    color: rgb(0,0,0);
 }
 
 ul{
@@ -14,14 +14,14 @@ ul{
 a{
     text-decoration:none; 
     color: rgb(255,255,255);
-    font-size:18px;
+    font-size:21px;
    
 }   
 li{
     display: inline;
     font-family: 'Lobster', cursive;
     padding:15px;
-    font-size:25px;
+    font-size:35px;
     
 }
 p{
@@ -41,4 +41,7 @@ label{
 }
 input{
     font-size:20px;
+}
+body{
+    background-color: rgb(52, 131, 235);
 }
